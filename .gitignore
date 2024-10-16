@@ -1,5 +1,7 @@
 .obsidian
 lista.xlsx
+.ipynb_checkpoints
+AirPassengers.csv
 
 *.canvas
 *.db
