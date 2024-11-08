@@ -2,6 +2,7 @@
 lista.xlsx
 .ipynb_checkpoints
 AirPassengers.csv
+Gold.xlsx
 
 *.canvas
 *.db
